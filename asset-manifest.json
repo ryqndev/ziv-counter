@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ziv-counter/static/css/main.8cc10584.chunk.css",
+    "main.js": "/ziv-counter/static/js/main.7520a7d1.chunk.js",
+    "main.js.map": "/ziv-counter/static/js/main.7520a7d1.chunk.js.map",
+    "runtime-main.js": "/ziv-counter/static/js/runtime-main.08eb28c9.js",
+    "runtime-main.js.map": "/ziv-counter/static/js/runtime-main.08eb28c9.js.map",
+    "static/js/2.c25ffe32.chunk.js": "/ziv-counter/static/js/2.c25ffe32.chunk.js",
+    "static/js/2.c25ffe32.chunk.js.map": "/ziv-counter/static/js/2.c25ffe32.chunk.js.map",
+    "index.html": "/ziv-counter/index.html",
+    "precache-manifest.02f5355b0194d545d67fd3f8bfa5f97b.js": "/ziv-counter/precache-manifest.02f5355b0194d545d67fd3f8bfa5f97b.js",
+    "service-worker.js": "/ziv-counter/service-worker.js",
+    "static/css/main.8cc10584.chunk.css.map": "/ziv-counter/static/css/main.8cc10584.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08eb28c9.js",
+    "static/js/2.c25ffe32.chunk.js",
+    "static/css/main.8cc10584.chunk.css",
+    "static/js/main.7520a7d1.chunk.js"
+  ]
+}
