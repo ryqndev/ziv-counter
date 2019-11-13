@@ -2,12 +2,11 @@ import React, {useEffect, useState} from 'react';
 import Theme from './Theme'; 
 import Toggle from './components/Toggle';
 import counts from './assets/Zivstory.json';
+import ZivPortrait from './assets/Ziv.jpg';
 import './App.css';
 
 function App() {
     const [dark, toggleDark] = useState(true);
-
-    const zivImage = `https://www.informatics.uci.edu/wp-content/informatics/uploads/FacultyProfiles-Ziv.jpg`;
     const lastMention = new Date(counts[counts.length - 1]);
 
     useEffect(() => {
@@ -20,7 +19,7 @@ function App() {
                 <Toggle cur={dark} set={toggleDark}/>
             </div>  
             <div className="ziv-law--title">
-                <img className="ziv-law--image" alt="Hadar Ziv" src={zivImage} />
+                <img className="ziv-law--image" alt="Hadar Ziv" src={ZivPortrait} />
                 <br />
                 Number of times Ziv has mentioned Ziv's Law:
             </div>
