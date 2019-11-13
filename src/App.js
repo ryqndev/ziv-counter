@@ -6,7 +6,9 @@ import './App.css';
 
 function App() {
     const [dark, toggleDark] = useState(true);
+
     const zivImage = `https://www.informatics.uci.edu/wp-content/informatics/uploads/FacultyProfiles-Ziv.jpg`;
+    const lastMention = new Date(counts[counts.length - 1]);
 
     useEffect(() => {
         Theme(dark);
@@ -26,7 +28,7 @@ function App() {
                 {counts.length}
             </div> 
             <div className="ziv-law--footer">
-
+                Last mention : {lastMention.toDateString()} at {lastMention.toTimeString()}
             </div>
         </div>
     );
