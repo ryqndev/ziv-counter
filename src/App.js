@@ -24,7 +24,10 @@ function App() {
             </div>
             <div className="ziv-law--counter">
                 {counts.length}
-            </div>  
+            </div> 
+            <div className="ziv-law--footer">
+                
+            </div>
         </div>
     );
 }
