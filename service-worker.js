@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ziv-counter/precache-manifest.b112e4fbd60e015704a4a84bda42767a.js"
+  "/ziv-counter/precache-manifest.386e7044f5210d8de64be9a9336d614f.js"
 );
 
 self.addEventListener('message', (event) => {
