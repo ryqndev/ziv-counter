@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/ziv-counter/static/css/main.01cb93ab.chunk.css",
-    "main.js": "/ziv-counter/static/js/main.8c15bd5f.chunk.js",
-    "main.js.map": "/ziv-counter/static/js/main.8c15bd5f.chunk.js.map",
+    "main.css": "/ziv-counter/static/css/main.2221af5d.chunk.css",
+    "main.js": "/ziv-counter/static/js/main.0ba1224d.chunk.js",
+    "main.js.map": "/ziv-counter/static/js/main.0ba1224d.chunk.js.map",
     "runtime-main.js": "/ziv-counter/static/js/runtime-main.08eb28c9.js",
     "runtime-main.js.map": "/ziv-counter/static/js/runtime-main.08eb28c9.js.map",
-    "static/js/2.e16ac1b2.chunk.js": "/ziv-counter/static/js/2.e16ac1b2.chunk.js",
-    "static/js/2.e16ac1b2.chunk.js.map": "/ziv-counter/static/js/2.e16ac1b2.chunk.js.map",
+    "static/js/2.b3fe0cca.chunk.js": "/ziv-counter/static/js/2.b3fe0cca.chunk.js",
+    "static/js/2.b3fe0cca.chunk.js.map": "/ziv-counter/static/js/2.b3fe0cca.chunk.js.map",
     "index.html": "/ziv-counter/index.html",
-    "precache-manifest.3ae2aa147aaf8621fe7fe984614d77e7.js": "/ziv-counter/precache-manifest.3ae2aa147aaf8621fe7fe984614d77e7.js",
+    "precache-manifest.6d0543d5c38b7ae940568a50cc35c243.js": "/ziv-counter/precache-manifest.6d0543d5c38b7ae940568a50cc35c243.js",
     "service-worker.js": "/ziv-counter/service-worker.js",
-    "static/css/main.01cb93ab.chunk.css.map": "/ziv-counter/static/css/main.01cb93ab.chunk.css.map"
+    "static/css/main.2221af5d.chunk.css.map": "/ziv-counter/static/css/main.2221af5d.chunk.css.map",
+    "static/media/Ziv.jpg": "/ziv-counter/static/media/Ziv.4a7a86d2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.08eb28c9.js",
-    "static/js/2.e16ac1b2.chunk.js",
-    "static/css/main.01cb93ab.chunk.css",
-    "static/js/main.8c15bd5f.chunk.js"
+    "static/js/2.b3fe0cca.chunk.js",
+    "static/css/main.2221af5d.chunk.css",
+    "static/js/main.0ba1224d.chunk.js"
   ]
 }
