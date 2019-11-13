@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ziv-counter/static/css/main.2221af5d.chunk.css",
-    "main.js": "/ziv-counter/static/js/main.0ba1224d.chunk.js",
-    "main.js.map": "/ziv-counter/static/js/main.0ba1224d.chunk.js.map",
+    "main.css": "/ziv-counter/static/css/main.94fc24fc.chunk.css",
+    "main.js": "/ziv-counter/static/js/main.91120fa2.chunk.js",
+    "main.js.map": "/ziv-counter/static/js/main.91120fa2.chunk.js.map",
     "runtime-main.js": "/ziv-counter/static/js/runtime-main.08eb28c9.js",
     "runtime-main.js.map": "/ziv-counter/static/js/runtime-main.08eb28c9.js.map",
     "static/js/2.b3fe0cca.chunk.js": "/ziv-counter/static/js/2.b3fe0cca.chunk.js",
     "static/js/2.b3fe0cca.chunk.js.map": "/ziv-counter/static/js/2.b3fe0cca.chunk.js.map",
     "index.html": "/ziv-counter/index.html",
-    "precache-manifest.6d0543d5c38b7ae940568a50cc35c243.js": "/ziv-counter/precache-manifest.6d0543d5c38b7ae940568a50cc35c243.js",
+    "precache-manifest.e3b9262cacda123c66f222ce8a81ee3c.js": "/ziv-counter/precache-manifest.e3b9262cacda123c66f222ce8a81ee3c.js",
     "service-worker.js": "/ziv-counter/service-worker.js",
-    "static/css/main.2221af5d.chunk.css.map": "/ziv-counter/static/css/main.2221af5d.chunk.css.map",
+    "static/css/main.94fc24fc.chunk.css.map": "/ziv-counter/static/css/main.94fc24fc.chunk.css.map",
     "static/media/Ziv.jpg": "/ziv-counter/static/media/Ziv.4a7a86d2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.08eb28c9.js",
     "static/js/2.b3fe0cca.chunk.js",
-    "static/css/main.2221af5d.chunk.css",
-    "static/js/main.0ba1224d.chunk.js"
+    "static/css/main.94fc24fc.chunk.css",
+    "static/js/main.91120fa2.chunk.js"
   ]
 }
