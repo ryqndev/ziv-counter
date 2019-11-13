@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import Theme from './Theme'; 
 import Toggle from './components/Toggle';
-import counts from './Ziv.js';
+import counts from './assets/Zivstory.json';
 import './App.css';
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
                 {counts.length}
             </div> 
             <div className="ziv-law--footer">
-                
+
             </div>
         </div>
     );
