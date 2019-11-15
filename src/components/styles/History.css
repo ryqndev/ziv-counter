@@ -1,0 +1,18 @@
+.history--wrapper{
+    position: fixed;
+    height: 80vh;
+    width: 370px;
+    background-color: var(--alt-background-color);
+    left: calc(50vw - 185px);
+    border-radius: 2px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.history--title{
+    font-size: 30px;
+    margin: 40px 0 25px 0;
+    color: var(--text-color-1);
+}
+.history--item{
+    
+}
