@@ -7,7 +7,7 @@ const History = ({display, data}) => {
     return (
         <animated.div className="history--wrapper" style={props}>
             <div className="history--title">
-                Past Mentions:
+                Past Mentions
             </div>
             {data.map(e => {
                 return <div className="history--item" key={e}>{(new Date(e)).toString()}</div>
