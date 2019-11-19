@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f791ee80422c335217670864093a203c",
+    "revision": "affc3fe9071270e3fe08bca7d63dcdba",
     "url": "/ziv-counter/index.html"
   },
   {
-    "revision": "54ad1763211b5fa54b85",
+    "revision": "ccc249544fc8a58d4f10",
     "url": "/ziv-counter/static/css/main.4d734d82.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ziv-counter/static/js/2.7748130f.chunk.js"
   },
   {
-    "revision": "54ad1763211b5fa54b85",
-    "url": "/ziv-counter/static/js/main.dc399c2c.chunk.js"
+    "revision": "ccc249544fc8a58d4f10",
+    "url": "/ziv-counter/static/js/main.d811751a.chunk.js"
   },
   {
     "revision": "ebad1247d0291074d924",
