@@ -9,7 +9,7 @@ import './App.css';
 
 function App() {
     const [dark, toggleDark] = useState(true);
-    const [history, toggleHistory] = useState(true);
+    const [history, toggleHistory] = useState(false);
     const lastMention = new Date(counts[counts.length - 1]);
 
     useEffect(() => {
